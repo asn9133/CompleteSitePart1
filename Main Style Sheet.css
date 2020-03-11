@@ -1,0 +1,51 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    color: white;
+    text-align: center;
+ }
+
+.z1{
+    text-align: center;
+    color:darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.z2{
+    background-color: lightblue;
+}
+
+.z3{
+color:blue;
+font-style: italic;
+font-size:large;
+}
+
+.z4{
+    background-color:grey;
+    color: white;
+}
+
+.z5{
+    background-color: darkgrey;
+}
+
+.z6{
+    background-color: lightblue;
+}
+
+.z7{
+    color: darkblue;
+    font-size: large;
+}
+
+.z8{
+    background-color: lightblue;
+}
+
+.z9{
+    line-height: 1;
+}
